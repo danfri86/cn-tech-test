@@ -13,3 +13,7 @@
 `yarn start` eller `npm run start`
 
 url visas i terminalen
+
+## Besök
+
+Besök projektet på [Vercel - https://cloudnine-tech-test.vercel.app/saloons](https://cloudnine-tech-test.vercel.app/saloons)
