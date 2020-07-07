@@ -45,6 +45,7 @@ body {
 }
 
 #__next {
+  position: relative;
   width: 100%;
   max-width: 460px;
   margin: 0 auto;
