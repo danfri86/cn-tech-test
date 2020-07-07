@@ -16,4 +16,4 @@ url visas i terminalen
 
 ## Besök
 
-Besök projektet på [Vercel - https://cloudnine-tech-test.vercel.app/saloons](https://cloudnine-tech-test.vercel.app/saloons)
+Besök projektet på [Vercel - https://cloudnine-tech-test.vercel.app](https://cloudnine-tech-test.vercel.app)
