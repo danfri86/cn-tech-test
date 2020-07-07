@@ -1,0 +1,75 @@
+.wrapper {
+  position: relative;
+}
+
+/*
+.inner-wrapper is added for horizontal line to not span full width
+but still make the full .wrapper clickable
+*/
+.inner-wrapper {
+  display: flex;
+  align-items: flex-start;
+  margin: 0 1rem;
+  padding: 1rem 0;
+}
+
+.wrapper:not(:last-child) .inner-wrapper {
+  border-bottom: 1px solid var(--color-gray-100);
+}
+
+.wrapper:hover {
+  background: var(--color-gray-100);
+}
+
+.meta {
+  margin-left: auto;
+  text-align: right;
+}
+
+.time-wrapper {
+  margin: 0.125rem 1rem 0 0;
+  font-weight: 400;
+}
+
+.title {
+  font-size: var(--font-size-l);
+}
+
+.address {
+  color: var(--color-gray-500);
+}
+
+.rating {
+  margin: 0.5rem 0 0.25rem;
+  color: var(--color-gray-500);
+}
+
+.price {
+  margin-top: 0.125rem;
+  font-weight: 400;
+}
+
+.duration {
+  margin-top: 0.75rem;
+  color: var(--color-gray-500);
+  font-size: var(--font-size-sm);
+}
+
+.link-icon-wrapper {
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  margin-left: 1.875rem;
+}
+
+/*
+Cover the full .wrapper with .link
+It'll be added on top of all elements in wrapper
+*/
+.link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

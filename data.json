@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "name": "Sax & Fön",
+    "priceSek": 320,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.salongweb.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 2,
+    "name": "Hårizont",
+    "priceSek": 320,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.harizont.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 3,
+    "name": "Hårhuset",
+    "priceSek": 320,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.harhuset.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 4,
+    "name": "Hair & Nu",
+    "priceSek": 320,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.hair-nu.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 5,
+    "name": "Hårley Davidsson",
+    "priceSek": 320,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.harley-davidsson.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+
+  {
+    "id": 6,
+    "name": "Hårsalong #6",
+    "priceSek": 200,
+    "durationMin": 30,
+    "score": 1,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.website.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 7,
+    "name": "Hårsalong #7",
+    "priceSek": 200,
+    "durationMin": 30,
+    "score": 2,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.website.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 8,
+    "name": "Hårsalong #8",
+    "priceSek": 400,
+    "durationMin": 30,
+    "score": 4,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.website.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 9,
+    "name": "Hårsalong #9",
+    "priceSek": 400,
+    "durationMin": 30,
+    "score": 2,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.website.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  },
+  {
+    "id": 10,
+    "name": "Hårsalong #10",
+    "priceSek": 250,
+    "durationMin": 30,
+    "score": 5,
+    "reviewCount": 32,
+    "adress": {
+      "street": "Rådmansgatan 46",
+      "zip": "11357",
+      "city": "Stockholm"
+    },
+    "openingHours": {
+      "mon": "10:00-19:00",
+      "tue": "10:00-19:00",
+      "wed": "10:00-19:00",
+      "thu": "10:00-19:00",
+      "fri": "10:00-19:00",
+      "sat": "11:00-16:00",
+      "sun": null
+    },
+    "website": "www.website.com",
+    "phone": "08-52238920",
+    "presentation": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, quia vitae quos adipisci iure earum rem accusantium dolores tempore, officiis, eveniet minus fuga cumque dicta veniam sit est quibusdam atque!"
+  }
+]
