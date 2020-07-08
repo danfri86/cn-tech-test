@@ -39,7 +39,7 @@ const SaloonListItem = ({ saloon }: Props) => {
           <Icon icon="chevron-right" color="var(--color-highlight)" size={16} />
         </div>
 
-        <Link href={`/saloons/${slugify(saloon.name)}`}>
+        <Link href="/saloons/[name]" as={`/saloons/${slugify(saloon.name)}`}>
           <a className={s.link} />
         </Link>
       </div>
